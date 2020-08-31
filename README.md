@@ -18,7 +18,6 @@ I have devoted many hours over the past few years to experimenting with various 
 
 ### RFM69 and SAMD21 M0
 I initially set out with the goal of using CircuitPython as that project has so much support including working RFM69 and RFM9x libraries. I have some experience with the RFM69 radio modules and own several Moteinos from Lowpowerlabs.  They are great boards and I really like everything about what Felix has created.  I highly suggest you check them out.  RFM69s are great for low power as they have a very low sleep current and short time needed to transmit data.  I believe the SAMD21 M0 can make a great low power python board and I am working on getting that setup working.  Will keep you posted.  The most suitable board I have found is the Moteino M0.  It already has low power friendly components and the radio module is on the board.  I think it's just a matter of getting the processor to sleep and making sure the pins are pulled to the right state.  
-https://github.com/BitKnitting/wakey_circuitpython/wiki
 
 ### ESP8266
 I did some testing with the ESP8266 and it could work.  I have several Wemos D1 minis and they can be modified to run at pretty low power when sleeping.  Right now I like the ESP32 much better though so not sure I am going to pursue this route.  
