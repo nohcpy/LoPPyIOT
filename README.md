@@ -8,4 +8,4 @@ The overall goal of this project is to document the creation of simple Low Power
 * Agnostic to specific hubs, gateways, and other projects as possible.
 * Easy to configure and as self contained as possible.
 
-Please see the wiki for details and updates
+Please see the [wiki](https://github.com/nohcpy/LoPPyIOT/wiki) for details and updates
